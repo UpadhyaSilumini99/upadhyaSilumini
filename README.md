@@ -1,6 +1,7 @@
 # personal-portfolio
 
 This is my personal portfolio website built using react.
+Upadhya
 
 Visit the website: https://portfolio-metaloopa.vercel.app
 
